@@ -13,7 +13,7 @@
 
 <p>Minha relação com a tecnologia computacional aconteceu muito sedo, acabei ficando encantado com os avanços da era digital, e hoje e sempre busco aprender cada vez mais sobre, me esforço para manter o aprendizado sempre em evolução, em prol de matar minha curiosidade de como é a tecnologia computacional por trás dos panos. E realizar grandes feitos para me tornar parte dessa era tão poderosa.</p>
 
-<img align="right" alt="net not working" src="https://media.giphy.com/media/3o6ZtjUgN29USDJlEQ/giphy.gif?cid=790b76117169755f8c15b8a212a5343089989b09c445a17a&rid=giphy.gif&ct=g">
+<img align="right" alt="net not working" src="https://media3.giphy.com/media/TUQ6hOPCUifdH1KWiz/200w.webp?cid=ecf05e47k08susflgfxdjr2210213s438e0ql87f4lgsjx3b&rid=200w.webp&ct=g">
 
   ##
 
@@ -29,9 +29,9 @@
   
   
   ##
-  
-  <p>Johnny Cancilier, Brasil, Santa Catarina, Fraiburgo - since 1999.</p>
-  <p>Acadêmico em Ciéncia da Computação no Instituto Federal Catarinense IFC, Campus Videira-SC.</p>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Brasil,%20Santa%20Catarina,%20Fraiburgo-%233B4D98.svg?style=for-the-badge&logo=Google%20Maps&logoColor=white" target="_blank"></a>
+  <p>since 1999.</p>
+  <p>Acadêmico em Ciência da Computação no Instituto Federal Catarinense IFC, Campus Videira-SC.</p>
 </div>
   
   ##
@@ -61,4 +61,3 @@
   <a href = "mailto:jhony.cancilier@hotmail.com"><img src="https://img.shields.io/badge/jhony.cancilier@hotmail.com-%230077B5?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/johnny-cancilier-946b81185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=whitee" target="_blank"></a>
