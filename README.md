@@ -11,7 +11,7 @@
   ##
 
 <div style="display: inline_block"><br>
-<p>Johnny Cancilier, Fraiburgo Santa Catarina - since 1999.</p>
+<p>Johnny Cancilier, Brasil, Santa Catarina, Fraiburgo - since 1999.</p>
 <p>Acadêmico em Ciéncia da Computação no Instituto Federal Catarinense IFC, Campus Videira-SC.</p>
 </div>
   
