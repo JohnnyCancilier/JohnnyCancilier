@@ -12,6 +12,12 @@ HELLO WORLD! 🌎
 
 ##
 
+<p>Johnny Cancilier, Fraiburgo Santa Catarina - since 1999.</p>
+
+##
+
+<p>Estudante de Ciéncia da Computação, IFC Instituto Federal Catarinense Campus Videira-SC.</p>
+
 ##
 
 <div style="display: inline_block"><br>
