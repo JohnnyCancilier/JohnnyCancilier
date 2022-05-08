@@ -1,6 +1,6 @@
 ##
 
-HELLO WORLD! 🌎
+<h1>HELLO WORLD! 🌎 </h1>
 
 ##
 
@@ -16,7 +16,7 @@ HELLO WORLD! 🌎
 
 ##
 
-<p>Estudante de Ciéncia da Computação, IFC Instituto Federal Catarinense Campus Videira-SC.</p>
+<p>Acadêmico em Ciéncia da Computação no Instituto Federal Catarinense IFC, Campus Videira-SC.</p>
 
 ##
 
