@@ -1,6 +1,13 @@
   ##
 
-<h1>HELLO WORLD! 🌎 </h1>
+<div style="display: inline_block"><br>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-%23161616.svg?style=for-the-badge&logo=Wikipedia&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-%23161616.svg?style=for-the-badge&logo=Houzz&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-%23161616.svg?style=for-the-badge&logo=Okta&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-EF3939?style=for-the-badge&logo=A-Frame&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-EF3939?style=for-the-badge&logo=Gmail&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-%23161616.svg?style=for-the-badge&logo=Indeed&logoColor=white" target="_blank"></a>
+</div>
 
   ##
 
@@ -11,12 +18,14 @@
   ##
 
 <div style="display: inline_block"><br>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-470137?style=for-the-badge&logo=Jameson&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-7D00FF?style=for-the-badge&logo=Okta&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-470137?style=for-the-badge&logo=HackerOne&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-7D00FF?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-470137?style=for-the-badge&logo=NativeScript&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-7D00FF?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-%23161616.svg?style=for-the-badge&logo=Joplin&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-%23161616.svg?style=for-the-badge&logo=Okta&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-%23161616.svg?style=for-the-badge&logo=Houzz&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-%23161616.svg?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-%23161616.svg?style=for-the-badge&logo=npm&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-%23161616.svg?style=for-the-badge&logo=Indeed&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-%23161616.svg?style=for-the-badge&logo=C&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/-download-%23161616.svg?style=for-the-badge&logo=DocuSign&logoColor=white" target="_blank"></a>
   
   
   ##
@@ -49,6 +58,7 @@
 <div style="display: inline_block"><br>
   <a href="https://instagram.com/johnny_cancilier" target="_blank"><img src="https://img.shields.io/badge/-@johnny_cancilier-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:johnny.cancilier@gmail.com"><img src="https://img.shields.io/badge/johnny.cancilier@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
-  <a href = "mailto:jhony.cancilier@hotmail.com"><img src="https://img.shields.io/badge/jhony.cancilier@hotmail.com-%230077B5?style=for-the-badge&logo=Mail.Ru&logoColor=white" target="_blank"</a>
+  <a href = "mailto:jhony.cancilier@hotmail.com"><img src="https://img.shields.io/badge/jhony.cancilier@hotmail.com-%230077B5?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" target="_blank"</a>
   <a href="https://www.linkedin.com/in/johnny-cancilier-946b81185" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=whitee" target="_blank"></a>
