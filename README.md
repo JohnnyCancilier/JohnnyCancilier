@@ -11,7 +11,7 @@
 
   ##
 
-<p> Minha relação com a tecnologia computacional aconteceu muito sedo, acabei ficando encantado com os avanços da era digital, e hoje e sempre busco aprender cada vez mais sobre, me esforço para manter o aprendizado sempre em evolução, em prol de matar minha curiosidade de como é a tecnologia computacional por trás dos panos. E realizar grandes feitos para me tornar parte dessa era tão poderosa.</p>
+<p> Minha relação com a tecnologia computacional aconteceu muito cedo, acabei ficando encantado com os avanços da era digital, e hoje e sempre busco aprender cada vez mais sobre, me esforço para manter o aprendizado sempre em evolução, em prol de matar minha curiosidade de como é a tecnologia computacional por trás dos panos. E realizar grandes feitos para me tornar parte dessa era tão poderosa.</p>
 
 <img align="right" alt="net not working" src="https://media3.giphy.com/media/TUQ6hOPCUifdH1KWiz/200w.webp?cid=ecf05e47k08susflgfxdjr2210213s438e0ql87f4lgsjx3b&rid=200w.webp&ct=g">
 
