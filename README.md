@@ -16,7 +16,6 @@
 ##
 
 <div style="display: inline_block"><br>
-<p>my socials:</p>
   <a href="https://instagram.com/johnny_cancilier" target="_blank"><img src="https://img.shields.io/badge/-@johnny_cancilier-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:johnny.cancilier@gmail.com"><img src="https://img.shields.io/badge/johnny.cancilier@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"</a>
   <a href = "mailto:jhony.cancilier@hotmail.com"><img src="https://img.shields.io/badge/jhony.cancilier@hotmail.com-%230077B5?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" target="_blank"</a>
