@@ -7,7 +7,7 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/-%23161616.svg?style=for-the-badge&logo=Indeed&logoColor=white" target="_blank"></a>
 </div>
 
-<p></p>
+<p>LOCKED</p>
   <p>since 1999.</p>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Brasil,%20Santa%20Catarina,%20Fraiburgo-%233B4D98.svg?style=for-the-badge&logo=Google%20Maps&logoColor=white" target="_blank"></a>
   <p>Acadêmico em Ciência da Computação no Instituto Federal Catarinense IFC, Campus Videira-SC.</p>
